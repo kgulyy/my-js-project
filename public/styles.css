@@ -1,0 +1,10 @@
+div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 86px;
+    color: darkgreen;
+    font-family: --apple-system, Arial, sans-serif;
+    transition: all 2s ease-in-out;
+}
