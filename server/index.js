@@ -25,5 +25,6 @@ const server = http.createServer(function (req, res) {
     });
 });
 
-server.listen(3000);
-console.log('Server is started!');
+const port = process.env.PORT || 3000;
+server.listen(port);
+log(`Server is started on ${port}`);
