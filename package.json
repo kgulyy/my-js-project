@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/kgulyy/my-js-project#readme",
   "dependencies": {
-    "debug": "^4.1.1"
+    "debug": "^4.3.1"
   }
 }
